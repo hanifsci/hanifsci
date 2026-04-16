@@ -13,7 +13,7 @@
 <h1 align="center">Hi There! <img width="37" src="https://raw.githubusercontent.com/KenanGain/KenanGain/refs/heads/main/icons/wave.gif"/>&nbsp;&nbsp;&nbsp;I'm <img src="./assets/myname.svg"  alt="Hanif Mohammad"/></h1>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;A+Open-source+Contributor;Backend+Developer;Problem+Solver;Cloud+Engineer;DSA+Learner;IT+Enthusiast;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=9400D3&size=29&height=70&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;A+Open-source+Contributor;Backend+Developer;Problem+Solver;Cloud+Engineer;DSA+Practitioner;AI+Enthusiast;" alt="Typing SVG" />
 
 </h3>
 
